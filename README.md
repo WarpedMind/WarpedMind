@@ -18,7 +18,7 @@ One of the first people in the US to receive the CAIO designation. Governance-fi
 - Building MarketHack.ai — an AI-driven marketing analytics platform with predictive customer insights and autonomous data workflows
 - ISO 42001 AI Management System certification (in progress)
 
-**Background:** 30+ years in technology — started as a developer (Novell CNE) with early work on projects tied to the NASA International Space Station and FAA Air Traffic Control infrastructure, then moved through full-stack web development, digital marketing, product management, and executive advisory. I've owned entire client digital products end-to-end and now help organizations navigate AI transformation without the hype.
+**Background:** 30+ years in technology — started as a developer with early work on projects tied to the NASA International Space Station and FAA Air Traffic Control infrastructure, then moved through network engineering (Novell CNE), full-stack web development, digital marketing, product management, and executive advisory. I've owned entire client digital products end-to-end and now help organizations navigate AI transformation without the hype.
 
 ---
 
