@@ -1,5 +1,7 @@
 # Thomas C. Grow II
 
+<img src="TomGrow_headshot.jpg" width="220" align="right" style="border-radius: 8px; margin-left: 16px;" />
+
 **Fractional Chief AI Officer  |  AI Strategy & Governance  |  Digital Transformation**
 
 Certified Chief AI Officer (CAIO), [World AI University](https://waiu.org)  
@@ -29,7 +31,6 @@ One of the first people in the US to receive the CAIO designation. Governance-fi
 | [ai-governance-framework](https://github.com/WarpedMind/ai-governance-framework) | Practical AI governance templates, risk assessment tools, and adoption frameworks | ✅ Active |
 | [caio-resources](https://github.com/WarpedMind/caio-resources) | CAIO certification materials, coursework notes, and AI executive reference content | 🚧 Coming soon |
 | [markethack-ai-usecase](https://github.com/WarpedMind/markethack-ai-usecase) | CAIO certification use case report: AI-driven marketing analytics platform | 🚧 Coming soon |
-| [powersports-inventory-scraper](https://github.com/WarpedMind/powersports-inventory-scraper) | AI-powered scraper reducing manual inventory updates from 1hr+ to ~2min per vehicle | 🚧 Coming soon |
 
 ---
 
