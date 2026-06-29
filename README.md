@@ -19,6 +19,7 @@ One of the first people in the US to receive the CAIO certification. Currently s
 - Prediction market analysis bot on Kalshi — 10 async agents, custom pub/sub event bus, Claude API integration, RSA-signed exchange auth, 35 automated tests *(private)*
 - Multi-vendor inventory automation — Python/Playwright scraper keeping a client's Shopify catalog synced across multiple suppliers in real time *(private — client work)*
 - [ResumeMatch](https://github.com/WarpedMind/resumematch) — CLI tool that scores a resume against a job description using the Claude API. Open source.
+- [Foundry](https://github.com/WarpedMind/foundry) — open-source framework that gives AI coding sessions persistent memory, security guardrails, and honest governance scaffolding, so context and rules survive across sessions instead of resetting every time. Open source.
 ---
  
 ### Fractional CAIO & AI Strategy
@@ -44,6 +45,7 @@ Started as a developer. Early work touched NASA's International Space Station, F
 | Repository | Description | Status |
 |---|---|---|
 | [resumematch](https://github.com/WarpedMind/resumematch) | CLI: score a resume against a JD using the Claude API | ✅ Active |
+| [foundry](https://github.com/WarpedMind/foundry) | Framework scaffolding living docs, hooks, and security/governance guardrails for AI-assisted projects — plus Promptify (prompt rewriting) and qc-review (adversarial AI code review) | ✅ Active |
 | [ai-governance-framework](https://github.com/WarpedMind/ai-governance-framework) | Practical AI governance templates, risk assessment tools, and adoption frameworks | ✅ Active |
 | [caio-resources](https://github.com/WarpedMind/caio-resources) | CAIO certification materials, coursework notes, and AI executive reference content | 🚧 Coming soon |
  
